@@ -1,0 +1,4 @@
+streamlit
+pandas
+numpy
+sqlite3  # No es necesario instalarlo, ya viene con Python, pero lo incluyo como referencia
